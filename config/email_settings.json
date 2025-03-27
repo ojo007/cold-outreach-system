@@ -1,0 +1,9 @@
+{
+  "smtp_server": "smtp.example.com",
+  "smtp_port": 587,
+  "use_tls": true,
+  "sender_email": "outreach@yourcompany.com",
+  "sender_name": "Your Name",
+  "test_recipient": "team@propertyvisualizer.com",
+  "reply_to": "sales@yourcompany.com"
+}

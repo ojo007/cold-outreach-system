@@ -1,0 +1,13 @@
+{
+  "target_leads": 20,
+  "market": "German",
+  "website_url": "exposeprofi.de",
+  "lead_sources": [
+    "linkedin",
+    "xing",
+    "company_directories"
+  ],
+  "personalization_level": "high",
+  "max_emails_per_day": 25,
+  "test_mode": true
+}

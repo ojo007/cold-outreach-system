@@ -1,0 +1,24 @@
+Sehr geehrte(r) {contact_name},
+
+Ich hoffe, diese Nachricht findet Sie gut. Mein Name ist [Ihr Name] von Propertyvisualizer.
+
+Bei meiner Recherche im Immobilienmarkt in {city} bin ich auf {company_name} gestoßen und war beeindruckt von Ihrem Portfolio von {properties_count} Immobilien. Als {position} haben Sie sicherlich einen guten Überblick über die Herausforderungen in der Immobilienverwaltung.
+
+Wir bei Propertyvisualizer haben eine KI-gestützte Lösung entwickelt, die speziell für Unternehmen wie Ihres konzipiert ist. Unsere Plattform ermöglicht es Ihnen:
+
+- Den Verwaltungsaufwand um bis zu 40% zu reduzieren
+- Die Vermarktung Ihrer Objekte durch KI-optimierte Beschreibungen zu verbessern
+- Kundenkommunikation zu automatisieren und personalisieren
+- Umfassende Analysen für bessere Geschäftsentscheidungen zu erhalten
+
+Besonders in {city} sehen unsere Kunden hervorragende Ergebnisse mit unserer Lösung.
+
+Hätten Sie Interesse an einer kurzen 15-minütigen Online-Demo, um zu sehen, wie Propertyvisualizer Ihnen helfen könnte? Ich bin flexibel und könnte mich nach Ihrem Zeitplan richten.
+
+Mit freundlichen Grüßen,
+[Ihr Name]
+
+--
+Propertyvisualizer GmbH
+www.exposeprofi.de
+Tel: +49 30 12345678
